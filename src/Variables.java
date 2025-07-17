@@ -14,9 +14,9 @@ public abstract class Variables {
     // ; is a declaration always input after a variable
 
     // int is a value between -2,147,483,648 to 2,147,483,647
-    // ints are datatypes that must be named and must be whole numbers
+    // ints are datatypes and must be whole numbers
     int Int = 456;
-    // it can be declared after creation for example:
+    // it can be assigned after declaration for example:
     int exampleint;
     exampleint = 100;
 
@@ -24,7 +24,7 @@ public abstract class Variables {
     // however they are not always accurate
     float enumfloat = 20.20304002f;
     double enumdouble = 462.2847865;
-    //they can also be declared after creation
+    //they can also be assigned after declaration
     float examplefloat;
     examplefloat = 2.4526784589f;
 
@@ -35,7 +35,7 @@ public abstract class Variables {
     boolean hasstamina = false;
     boolean wantsstamina = true;
 
-    // can also be declared after creation
+    // can also be assigned after declaration
 
     boolean isUpFacing;
     isUpFacing=false;
@@ -43,7 +43,7 @@ public abstract class Variables {
     // Chars and strings are letter based variables that must be declared in '' or ""
     // Chars must be incapsulated between '' and must be single characters
     // Strings must be incapsulated between "" and can be whole texts
-    //they can also be declared after creation
+    //they can also be assigned after declaration
 
     char grade;
     grade = 'B';
