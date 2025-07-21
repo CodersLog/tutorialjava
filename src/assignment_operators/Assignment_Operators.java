@@ -1,3 +1,5 @@
+package assignment_operators;
+
 public class Assignment_Operators {
 
     public static void main(String[] args) {

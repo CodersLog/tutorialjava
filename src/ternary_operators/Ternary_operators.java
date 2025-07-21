@@ -1,3 +1,5 @@
+package ternary_operators;
+
 public class Ternary_operators {
     public static void main(String[] args) {
         /* TERNARY OPERATOR */

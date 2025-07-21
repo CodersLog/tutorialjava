@@ -1,3 +1,5 @@
+package booleans_and_logic;
+
 import java.util.Scanner;
 
 public class Booleans_And_Logic {

@@ -1,0 +1,6 @@
+Inheritance basically means that we take certain behaviour
+from a super class in our case animal and use it to create certain
+instances like our dog, cat and cow
+
+Polymorphism is the act of turning one datatype into another so we can say
+Animal bengie = new Dog(picture,name,age);

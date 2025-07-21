@@ -1,3 +1,5 @@
+package math;
+
 public class Math {
     public static void main(String[] args) {
 
@@ -35,7 +37,7 @@ public class Math {
         /*
         gives exception:
         Exception in thread "main" java.lang.ArithmeticException: / by zero
-	    at Math.main(Math.java:28)
+	    at math.Math.main(math.Math.java:28)
         Process finished with exit code 1
          */
 
@@ -59,7 +61,7 @@ public class Math {
 
         System.out.println(remains4 + " Remains");
 
-        // you can also use the Math Class from java.lang.Math for mathematical equations
+        // you can also use the math.Math Class from java.lang.math.Math for mathematical equations
 
         System.out.println("2.555 is now rounded up to: " + java.lang.Math.ceil(2.555));
         // ^- this will output 3 since ceil rounds doubles (see CLASS#VARIABLES) up to whole numbers

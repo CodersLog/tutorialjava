@@ -1,3 +1,5 @@
+package variables;
+
 public abstract class Variables {
     public static void main(String[] args) {
 

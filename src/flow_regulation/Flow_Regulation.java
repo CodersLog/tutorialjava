@@ -1,3 +1,5 @@
+package flow_regulation;
+
 import java.util.Scanner;
 
 public class Flow_Regulation {

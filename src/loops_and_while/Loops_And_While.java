@@ -1,3 +1,5 @@
+package loops_and_while;
+
 public class Loops_And_While {
     public static void main(String[] args) {
         /* LOOPS (FOR & WHILE) */

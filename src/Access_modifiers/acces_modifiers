@@ -1,0 +1,9 @@
+public // accessible from anywhere and changeable
+
+protected // accessible in sub-classes and same package!
+
+private // accessible ONLY inside the class itself
+        this can be sixed using getters and setters look inside DogAccesModifiers for a
+        exemple
+
+static // global variable that is shared along everything related to the class you create it in
